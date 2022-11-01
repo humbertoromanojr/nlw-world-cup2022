@@ -4,14 +4,15 @@
 Fullstack Project Pool World Cup 2022
 </h1>
 
-https://drive.google.com/file/d/1sr3s7WHEX8V-6uB7UNN8vVWyyWSEYDQy/view?usp=sharing
 
 > Status from Project: :construction: Under Construction :construction: 👨‍💻
 
 
 ## Shields
 
-![Badge](https://img.shields.io/static/v1?label=react&message=FrameWork&color=blue&style=for-the-badge&logo=reactnative)
+![Badge](https://img.shields.io/static/v1?label=react&message=FrameWork&color=blue&style=for-the-badge&logo=REACT)
+
+![Badge](https://img.shields.io/static/v1?label=reactnative&message=FrameWork&color=blue&style=for-the-badge&logo=REACTNATIVE)
 
 ![Badge](https://img.shields.io/github/issues/humbertoromanojr/nlw-world-cup2022?logo=visual-studio-code&style=plastic&logo=appveyor)
 ![Badge](https://img.shields.io/github/forks/humbertoromanojr/nlw-world-cup2022)
