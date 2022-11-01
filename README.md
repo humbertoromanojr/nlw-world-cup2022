@@ -12,7 +12,7 @@ Fullstack Project Pool World Cup 2022
 
 ![Badge](https://img.shields.io/static/v1?label=react&message=FrameWork&color=blue&style=for-the-badge&logo=REACT)
 
-![Badge](https://img.shields.io/static/v1?label=reactnative&message=FrameWork&color=blue&style=for-the-badge&logo=REACTNATIVE)
+![Badge](https://img.shields.io/static/v1?label=reactnative&message=FrameWork&color=blue&style=for-the-badge&logo=REACT)
 
 ![Badge](https://img.shields.io/github/issues/humbertoromanojr/nlw-world-cup2022?logo=visual-studio-code&style=plastic&logo=appveyor)
 ![Badge](https://img.shields.io/github/forks/humbertoromanojr/nlw-world-cup2022)
@@ -26,10 +26,22 @@ Fullstack Project Pool World Cup 2022
 
 For the development of the application, the stack was used: Node.JS, ReactJS and React Native, for the Backend, Frontend and mobile (Android & IOS) respectively.
 
+
+https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+
+https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
+
+https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
+
+https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+
+https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+
+
 ### BACK-END
 - 💹 **Node Js** — A web framework for Node Js
 
--   [Node.js][nodejs]
+-   [Node][https://nodejs.org/en/]
 -   [Typescript](https://www.typescriptlang.org/)
 -   [Fastify](https://www.fastify.io/)
 -   [Prisma](https://www.prisma.io/)
