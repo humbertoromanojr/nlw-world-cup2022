@@ -27,21 +27,13 @@ Fullstack Project Pool World Cup 2022
 For the development of the application, the stack was used: Node.JS, ReactJS and React Native, for the Backend, Frontend and mobile (Android & IOS) respectively.
 
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> 👨‍💻 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> :woman_technologist: <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> :computer: <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
 
 ### BACK-END
-- 💹 **Node Js** — A web framework for Node Js
+- <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /> Node.js® is an open-source, cross-platform JavaScript runtime environment.
 
--   [Node][https://nodejs.org/en/]
+-   [Node](https://nodejs.org/en/)
 -   [Typescript](https://www.typescriptlang.org/)
 -   [Fastify](https://www.fastify.io/)
 -   [Prisma](https://www.prisma.io/)
