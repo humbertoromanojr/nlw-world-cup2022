@@ -10,7 +10,7 @@ Fullstack Project Pool World Cup 2022
 
 ## Shields
 
-![Badge](https://img.shields.io/static/v1?label=react&message=FrameWork&color=blue&style=for-the-badge&logo=REACT)
+![Badge](https://img.shields.io/static/v1?label=next&message=FrameWork&color=blue&style=for-the-badge&logo=NEXT)
 
 ![Badge](https://img.shields.io/static/v1?label=reactnative&message=FrameWork&color=blue&style=for-the-badge&logo=REACT)
 
@@ -37,26 +37,15 @@ For the development of the application, the stack was used: Node.JS, ReactJS and
 -   [Typescript](https://www.typescriptlang.org/)
 -   [Fastify](https://www.fastify.io/)
 -   [Prisma](https://www.prisma.io/)
+-   [Mermaid](https://mermaid-js.github.io/)
 
 
 
 ### FRONT-END
-- ⚛️ **React Js** — A JavaScript library for building user interfaces
+- ⚛️ **Next Js** — Bringing the power of full-stack to the frontend. A JavaScript library for building user interfaces
 
--   [ReactJS](https://reactjs.org/)
--   [Redux](https://redux.js.org/)
--   [Redux-Saga](https://redux-saga.js.org/)
--   [React Router](https://github.com/ReactTraining/react-router)
--   [styled-components](https://www.styled-components.com/)
--   [Axios](https://github.com/axios/axios)
--   [History](https://www.npmjs.com/package/history)
--   [Immer](https://github.com/immerjs/immer)
--   [React-Toastify](https://fkhadra.github.io/react-toastify/)
--   [React-Icons](http://react-icons.github.io/react-icons/)
--   [Unform](https://github.com/Rocketseat/unform)
--   [Yup](https://www.npmjs.com/package/yup)
--   [date-fns](https://date-fns.org/)
--   [Reactotron](https://infinite.red/reactotron)
+-   [NextJS](https://nextjs.org/)
+
 
 
 ## Demonstration
