@@ -10,7 +10,7 @@ Fullstack Project Pool World Cup 2022
 
 ## Shields
 
-![Badge](https://img.shields.io/static/v1?label=next&message=FrameWork&color=blue&style=for-the-badge&logo=NEXT)
+![Badge](https://img.shields.io/static/v1?label=next&message=FrameWork&color=blue&style=for-the-badge&logo=REACT)
 
 ![Badge](https://img.shields.io/static/v1?label=reactnative&message=FrameWork&color=blue&style=for-the-badge&logo=REACT)
 
@@ -56,18 +56,12 @@ For the development of the application, the stack was used: Node.JS, ReactJS and
 
 
 ### MOBILE
-- ⚛️ **React Js** — A JavaScript library for building user interfaces
-- ⚛️ **React Native** — A lib that provides a way to create native apps for Android and iOS
+- <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> — A JavaScript library for building user interfaces
+- <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> — Learn once, write anywhere. Create native apps for Android and iOS using React.
 
 -   [ReactJS](https://reactjs.org/)
 -   [React Native](https://facebook.github.io/react-native/)
--   [styled-components](https://www.styled-components.com/)
--   [Axios](https://github.com/axios/axios)
--   [React-Icons](http://react-icons.github.io/react-icons/)
--   [Unform](https://github.com/Rocketseat/unform)
--   [Yup](https://www.npmjs.com/package/yup)
--   [date-fns](https://date-fns.org/)
--   [Reactotron](https://infinite.red/reactotron)
+
 
 
 ## Demonstration
@@ -75,13 +69,6 @@ For the development of the application, the stack was used: Node.JS, ReactJS and
 <div align="center">
   <img src="https://drive.google.com/uc?export=view&id=1v79Vut2W8jmzyGHYmYKrmX9-cTKtx1U4" alt="nlw-world-cup-2022-ignite-img-mobile" width="100%" border="0" />
 </div>
-
-
-## Platforms
-
-O código mobile foi desenvolvido para Android e IOS.
-
-**OBS:** No código mobile é necessário trocar o IP presente nos arquivos, devido ter feito os testes usando USB, de acordo com a aula do Bootcamp, estão no arquivo /services/api.js e /config/ReactotronConfig.js
 
 
 ## Install
