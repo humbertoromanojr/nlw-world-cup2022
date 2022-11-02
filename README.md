@@ -63,7 +63,7 @@ For the development of the application, the stack was used: Node.JS, ReactJS and
 -   [ReactJS](https://reactjs.org/)
 -   [React Native](https://reactnative.dev/)
 -   [Expo](https://expo.dev/)
-
+-   [NativeBase](https://nativebase.io/)
 
 
 ## Demonstration
