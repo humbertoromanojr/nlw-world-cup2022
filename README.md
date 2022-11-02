@@ -26,7 +26,8 @@ Fullstack Project Pool World Cup 2022
 
 For the development of the application, the stack was used: Node.JS, ReactJS and React Native, for the Backend, Frontend and mobile (Android & IOS) respectively.
 
-👨‍💻 :woman_technologist: :computer:
+👨‍💻 :woman_technologist: 
+
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
 
@@ -60,7 +61,7 @@ For the development of the application, the stack was used: Node.JS, ReactJS and
 - <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> — Learn once, write anywhere. Create native apps for Android and iOS using React.
 
 -   [ReactJS](https://reactjs.org/)
--   [React Native](https://facebook.github.io/react-native/)
+-   [React Native](https://reactnative.dev/)
 
 
 
