@@ -13,13 +13,13 @@ datasource db {
 
 model Pool {
   id        String   @id @default(cuid())
-  ownerId   String?
   title     String
   code      String   @unique
   createdAt DateTime @default(now())
+  ownerId   String?
 
-  owner       User?         @relation(fields: [ownerId], references: [id])
-  participant Participant[]
+  participants Participant[]
+  owner        User?         @relation(fields: [ownerId], references: [id])
 }
 
 model Participant {
@@ -56,11 +56,11 @@ model Game {
 
 model Guess {
   id               String   @id @default(cuid())
-  gameId           String
-  participantId    String
   firstTeamPoints  Int
   secondTeamPoints Int
   createdAt        DateTime @default(now())
+  gameId           String
+  participantId    String
 
   participant Participant @relation(fields: [participantId], references: [id])
   game        Game        @relation(fields: [gameId], references: [id])
