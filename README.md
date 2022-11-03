@@ -46,7 +46,7 @@ For the development of the application, the stack was used: Node.JS, ReactJS and
 - ⚛️ **Next Js** — Bringing the power of full-stack to the frontend. A JavaScript library for building user interfaces
 
 -   [NextJS](https://nextjs.org/)
--   [Tailwindcss](https://tailwindcss.com/)
+-   [Tailwind](https://tailwindcss.com/)
 
 
 ## Demonstration
@@ -75,29 +75,41 @@ For the development of the application, the stack was used: Node.JS, ReactJS and
 
 ## Installing all technologies
 Copy project to repository:<br />
-git clone `git@github.com:humbertoromanojr/nlw-world-cup2022.git`
+:white_check_mark: git clone `git@github.com:humbertoromanojr/nlw-world-cup2022.git`
 
 or 
 
 Create folder `nlw-world-cup2022/` or name of your choice.
 
-🗒️ Can only have `.git` in root folder `nlw-world-cup2022/`
+🗒️ Note
+Can only have `.git` in root folder `nlw-world-cup2022/`
 
 ## Backend
 Create folder `nlw-world-cup2022/server`
 
-Install folder `node_modules/` 
+Install folder `node_modules/` <br />
 :white_check_mark: `npm i` 
 
-Start project
+Start project <br />
 :white_check_mark: `npm run dev`
 
 
 ## Frontend
-Instalação do node_modules
-`yarn`
+Create folder `nlw-world-cup2022/web`
 
-`yarn start`
+Install folder `node_modules/` <br />
+:white_check_mark: `npm i` 
+
+Start project <br />
+:white_check_mark: `npm run dev`
+
+🗒️ Note <br />
+After installing Tailwindcss, create the configs: <br />
+:white_check_mark: `npx tailwindcss init -p`
+
+Install extensions VSCode: <br />
+- Tailwindcss; <br />
+- Postcss language Support; <br />
 
 ## Mobile
 Instalação do node_modules
