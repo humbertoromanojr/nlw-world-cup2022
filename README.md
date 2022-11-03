@@ -39,14 +39,14 @@ For the development of the application, the stack was used: Node.JS, ReactJS and
 -   [Fastify](https://www.fastify.io/)
 -   [Prisma](https://www.prisma.io/)
 -   [Mermaid](https://mermaid-js.github.io/)
-
+-   [Zod](https://zod.dev/)
 
 
 ### FRONT-END
 - ⚛️ **Next Js** — Bringing the power of full-stack to the frontend. A JavaScript library for building user interfaces
 
 -   [NextJS](https://nextjs.org/)
-
+-   [Tailwindcss](https://tailwindcss.com/)
 
 
 ## Demonstration
@@ -74,31 +74,32 @@ For the development of the application, the stack was used: Node.JS, ReactJS and
 
 
 ## Installing all technologies
+Copy project to repository:<br />
 git clone `git@github.com:humbertoromanojr/nlw-world-cup2022.git`
 
 or 
 
 Create folder `nlw-world-cup2022/` or name of your choice.
 
-🗒️ Can only have .git in root folder `nlw-world-cup2022/`
+🗒️ Can only have `.git` in root folder `nlw-world-cup2022/`
 
-## **Backend**
+## Backend
 Create folder `nlw-world-cup2022/server`
 
-:white_check_mark: `npm i` 
 Install folder `node_modules/` 
+:white_check_mark: `npm i` 
 
+Start project
 :white_check_mark: `npm run dev`
-Run application in localhost
 
 
-## **Frontend**
+## Frontend
 Instalação do node_modules
 `yarn`
 
 `yarn start`
 
-## **Mobile**
+## Mobile
 Instalação do node_modules
 `yarn`
 
