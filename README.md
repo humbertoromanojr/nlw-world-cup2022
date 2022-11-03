@@ -73,25 +73,24 @@ For the development of the application, the stack was used: Node.JS, ReactJS and
 </div>
 
 
-## Install
+## Installing all technologies
+git clone `git@github.com:humbertoromanojr/nlw-world-cup2022.git`
 
-Postgres - Banco de dados principal
-Eu usei direto sem ter dar start no Docker, mesmo assim deixo aqui o comando para quem for usar com Docker.  
-`docker run --name database -e POSTGRES_PASSWORD=docker -p 5432:5432 -d postgres`
+or 
 
-Redis - Banco de dados para filas  
-`docker run --name redis -p 6379:6379 -d -t redis:alpine`
+Create folder `nlw-world-cup2022/` or name of your choice.
 
-Sequelize  
-`yarn sequelize db:migrate`  
+🗒️ Can only have .git in root folder `nlw-world-cup2022/`
 
 ## **Backend**
-Instalação do node_modules
-`yarn`
+Create folder `nlw-world-cup2022/server`
 
-`yarn dev`
+:white_check_mark: `npm i` 
+Install folder `node_modules/` 
 
-`yarn queue`
+:white_check_mark: `npm run dev`
+Run application in localhost
+
 
 ## **Frontend**
 Instalação do node_modules
@@ -99,7 +98,7 @@ Instalação do node_modules
 
 `yarn start`
 
-## **Mobile(android)**
+## **Mobile**
 Instalação do node_modules
 `yarn`
 
