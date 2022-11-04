@@ -47,6 +47,7 @@ For the development of the application, the stack was used: Node.JS, ReactJS and
 
 -   [NextJS](https://nextjs.org/)
 -   [Tailwind](https://tailwindcss.com/)
+-   [Axios](https://axios-http.com/docs/intro)
 
 
 ## Demonstration
@@ -81,7 +82,7 @@ or
 
 Create folder `nlw-world-cup2022/` or name of your choice.
 
-🗒️ Note
+🗒️ Note <br />
 Can only have `.git` in root folder `nlw-world-cup2022/`
 
 ## Backend
