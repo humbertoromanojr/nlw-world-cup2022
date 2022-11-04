@@ -53,7 +53,7 @@ For the development of the application, the stack was used: Node.JS, ReactJS and
 ## Demonstration
 
 <h1 align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1TnxsgI41dZ7o5VCVjBzZuAH0gWOf4vYu" alt="nlw-world-cup-2022-img-top" width="100%" border="0" />
+  <img src="https://drive.google.com/uc?export=view&id=14S1RDHXo9Apqt_wIleaPCca28TdkmKR4" alt="nlw-world-cup-2022-img-top" width="100%" border="0" />
 </h1>
 
 
