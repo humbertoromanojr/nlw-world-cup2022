@@ -1,6 +1,7 @@
 # files
 *.log
 *.env
+*.db
 
 # Folders
 node_modules/
