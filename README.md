@@ -65,6 +65,8 @@ For the development of the application, the stack was used: Node.JS, ReactJS and
 -   [React Native](https://reactnative.dev/)
 -   [Expo](https://expo.dev/)
 -   [NativeBase](https://nativebase.io/)
+-   [React Native SVG](https://github.com/software-mansion/react-native-svg)
+-   [React Native SVG Transformer](https://github.com/kristerkari/react-native-svg-transformer)
 
 
 ## Demonstration
@@ -113,14 +115,16 @@ Install extensions VSCode: <br />
 - Postcss language Support; <br />
 
 ## Mobile
-Instalação do node_modules
-`yarn`
+Install Expo <br />
+:white_check_mark: `npm i -g expo-cli` <br />
 
-Para iniciar o Bundle
-`yarn start`
+:white_check_mark: Go to `mobile` folder <br />
 
-Para rodar a aplicação
-`yarn dev`
+Install node_modules <br />
+:white_check_mark: `npm i`
+
+Run application
+:white_check_mark: `npx expo start`
 
 
 ## License
@@ -129,7 +133,7 @@ This project is licensed under the MIT License - see the [LICENSE](https://opens
 
 ## Author
 <img src="https://avatars1.githubusercontent.com/u/6500430?s=460&u=42d7e22fa1c77b061505fe1cfc3fcaa3e2a4d1e5&v=4" width="80" alt="linkedin.com/in/junior-dev" />
-:guitar: Humberto JR :guitar:
+:guitar: Humberto Jr :guitar:
 <br />
 
 LinkedIn: https://www.linkedin.com/in/junior-dev <br />
@@ -137,7 +141,7 @@ GitLab: https://gitlab.com/hjrdev <br />
 Email: astronomi@gmail.com <br />
 <br />
 
-Made with :heart: and lots of animation by :guitar: Humberto JR :guitar:
+Made with :heart: and lots of animation by :guitar: Humberto Jr :guitar:
 
 ##
 :hand:  read more below  :hand:
