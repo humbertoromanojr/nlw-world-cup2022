@@ -67,6 +67,9 @@ For the development of the application, the stack was used: Node.JS, ReactJS and
 -   [NativeBase](https://nativebase.io/)
 -   [React Native SVG](https://github.com/software-mansion/react-native-svg)
 -   [React Native SVG Transformer](https://github.com/kristerkari/react-native-svg-transformer)
+-   [AuthSession](https://docs.expo.dev/versions/latest/sdk/auth-session/)
+-   [WebBrowser](https://docs.expo.dev/versions/latest/sdk/webbrowser/)
+-   [Phosphoricons](https://phosphoricons.com/)
 
 
 ## Demonstration
@@ -123,7 +126,7 @@ Install Expo <br />
 Install node_modules <br />
 :white_check_mark: `npm i`
 
-Run application
+Run application <br />
 :white_check_mark: `npx expo start`
 
 
