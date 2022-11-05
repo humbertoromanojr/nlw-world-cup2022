@@ -1,4 +1,4 @@
-import { VStack, Text, Heading } from 'native-base'
+import { VStack, Heading } from 'native-base'
 
 import { Header } from '../components/Header'
 import { Input } from '../components/Input'
