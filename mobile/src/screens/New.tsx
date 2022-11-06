@@ -1,4 +1,5 @@
-import { VStack, Text, Heading } from 'native-base'
+import { useState } from 'react'
+import { VStack, Text, Heading, useToast } from 'native-base'
 
 import { Header } from '../components/Header'
 import { Input } from '../components/Input'
@@ -7,6 +8,19 @@ import { Button } from '../components/Button'
 import LogoCup2022 from '../assets/logo.svg'
 
 export function New() {
+    const [title, setTitle] = useState('')
+
+    const toast = useToast()
+
+    function handlePoolCreate() {
+        if (!title) {
+            return toast.show({
+                title: 'Give the title for your poll, please ;-)',
+                placement: 'top',
+            })
+        }
+    }
+
     return (
         <VStack flex={1} bg="gray.900">
             <Header title="Create new poll" />
@@ -24,7 +38,12 @@ export function New() {
                     Create your own cup poll {'\n'} and share it with friends!
                 </Heading>
 
-                <Input mb={2} placeholder='What is your bubble name?' />
+                <Input 
+                    mb={2} 
+                    placeholder='What is your poll name?' 
+                    onChangeText={setTitle}
+                    value={title}
+                />
                 <Button title="create my poll" />
 
                 <Text color="gray.200" mt={4} textAlign="center" fontSize="md">
