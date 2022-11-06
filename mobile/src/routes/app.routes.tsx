@@ -1,5 +1,6 @@
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs'
 import { PlusCircle, SoccerBall } from 'phosphor-react-native'
+import { useTheme } from 'native-base'
 
 import { New } from '../screens/New'
 import { Pools } from '../screens/Polls'
@@ -7,11 +8,13 @@ import { Pools } from '../screens/Polls'
 const { Navigator, Screen } = createBottomTabNavigator()
 
 export function AppRoutes() {
+  const { colors } = useTheme()
+
   return (
     <Navigator screenOptions={{ 
       headerShown: false,
-      tabBarActiveTintColor: 'red',
-      tabBarInactiveTintColor: 'blue', 
+      tabBarActiveTintColor: colors.yellow[500],
+      tabBarInactiveTintColor: colors.gray[300], 
     }}>
       <Screen 
         name="new" 
