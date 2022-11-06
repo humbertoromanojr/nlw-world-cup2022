@@ -13,7 +13,7 @@ export function New() {
     const toast = useToast()
 
     function handlePoolCreate() {
-        if (!title) {
+        if (!title.trim()) {
             return toast.show({
                 title: 'Give the title for your poll, please ;-)',
                 placement: 'top',
