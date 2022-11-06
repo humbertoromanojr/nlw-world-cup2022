@@ -71,6 +71,7 @@ For the development of the application, the stack was used: Node.JS, ReactJS and
 -   [WebBrowser](https://docs.expo.dev/versions/latest/sdk/webbrowser/)
 -   [Phosphoricons](https://phosphoricons.com/)
 -   [Reactnavigation](https://reactnavigation.org/docs/getting-started/)
+-   [Axios](https://axios-http.com/docs/intro)
 
 
 ## Demonstration
