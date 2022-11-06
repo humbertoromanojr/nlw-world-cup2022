@@ -1,7 +1,8 @@
-import { useEffect, useState } from "react"
+import { useState, useCallback } from "react"
 import { VStack, Icon, useToast, FlatList } from "native-base"
 import { Fontisto } from '@expo/vector-icons'
 import { useNavigation } from '@react-navigation/native'
+import { useFocusEffect } from '@react-navigation/native'
 
 import { api } from '../services/api'
 
@@ -44,9 +45,9 @@ export function Pools() {
 
   }
 
-  useEffect(() => {
+  useFocusEffect(useCallback(() => {
     fetchPools()
-  }, [])
+  }, []))
 
     return (
         <VStack flex={1} bgColor="gray.900">
