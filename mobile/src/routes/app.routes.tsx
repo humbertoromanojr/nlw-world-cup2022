@@ -8,13 +8,18 @@ import { Pools } from '../screens/Polls'
 const { Navigator, Screen } = createBottomTabNavigator()
 
 export function AppRoutes() {
-  const { colors } = useTheme()
+  const { colors, sizes } = useTheme()
 
   return (
     <Navigator screenOptions={{ 
       headerShown: false,
       tabBarActiveTintColor: colors.yellow[500],
       tabBarInactiveTintColor: colors.gray[300], 
+      tabBarStyle: {
+        position: 'absolute',
+        height: sizes[22],
+        borderTopWidth: 0
+      }
     }}>
       <Screen 
         name="new" 
