@@ -8,9 +8,21 @@ const { Navigator, Screen } = createBottomTabNavigator()
 
 export function AppRoutes() {
   return (
-    <Navigator screenOptions={{ headerShown: false }}>
-      <Screen name="new" component={New} />
-      <Screen name="pools" component={Pools} />
+    <Navigator screenOptions={{ 
+      headerShown: false,
+      tabBarActiveTintColor: 'red',
+      tabBarInactiveTintColor: 'blue', 
+    }}>
+      <Screen 
+        name="new" 
+        component={New} 
+        options={{ tabBarIcon: ({ color }) => <PlusCircle color={color} />}}
+      />
+      <Screen 
+        name="pools" 
+        component={Pools} 
+        options={{ tabBarIcon: ({ color }) => <SoccerBall color={color} />}}
+      />
     </Navigator>
   )
 }
