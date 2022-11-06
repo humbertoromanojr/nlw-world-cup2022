@@ -1,10 +1,13 @@
 import { VStack, Icon } from "native-base"
 import { Fontisto } from '@expo/vector-icons'
+import { useNavigation } from '@react-navigation/native'
 
 import { Header } from "../components/Header"
 import { Button } from "../components/Button"
 
 export function Pools() {
+  const navigation = useNavigation()
+
     return (
         <VStack flex={1} bgColor="gray.900">
           <Header title="My pools" />
@@ -13,6 +16,7 @@ export function Pools() {
             <Button 
               title="Find pool for code"  
               leftIcon={<Icon as={Fontisto} name="search" color="black" size="md" />}
+              onPress={() => navigation.navigate("find")}
             />
           </VStack>
         </VStack>
