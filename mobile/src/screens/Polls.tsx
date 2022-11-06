@@ -6,7 +6,7 @@ import { Header } from "../components/Header"
 import { Button } from "../components/Button"
 
 export function Pools() {
-  const navigation = useNavigation()
+  const { navigate } = useNavigation()
 
     return (
         <VStack flex={1} bgColor="gray.900">
@@ -16,7 +16,7 @@ export function Pools() {
             <Button 
               title="Find pool for code"  
               leftIcon={<Icon as={Fontisto} name="search" color="black" size="md" />}
-              onPress={() => navigation.navigate("find")}
+              onPress={() => navigate("find")}
             />
           </VStack>
         </VStack>
