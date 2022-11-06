@@ -9,7 +9,7 @@ import LogoCup2022 from '../assets/logo.svg'
 export function New() {
     return (
         <VStack flex={1} bg="gray.900">
-            <Header title="Create new pool" />
+            <Header title="Create new poll" />
             <VStack my={10} mx={5} alignItems="center">
                 <LogoCup2022 />
 
@@ -21,14 +21,14 @@ export function New() {
                     fontFamily="heading"
                     fontSize="xl"
                 >
-                    Create your own cup pool {'\n'} and share it with friends!
+                    Create your own cup poll {'\n'} and share it with friends!
                 </Heading>
 
                 <Input mb={2} placeholder='What is your bubble name?' />
-                <Button title="create my pool" />
+                <Button title="create my poll" />
 
                 <Text color="gray.200" mt={4} textAlign="center" fontSize="md">
-                    After creating your pool, you will receive a {'\n'}
+                    After creating your poll, you will receive a {'\n'}
                     unique code that you can use to invite {'\n'}
                     other people.
                 </Text>

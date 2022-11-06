@@ -17,7 +17,7 @@ export function SignIn() {
       <LogoCup2022 width={262} height={90} />
       <Button 
         type="SECONDARY"
-        title="Entrar com Google" 
+        title="Login with Google" 
         leftIcon={<Icon as={Fontisto} name="google" color="white" size="md" />} 
         mt={12}
         onPress={signIn}

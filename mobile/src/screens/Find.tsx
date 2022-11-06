@@ -24,7 +24,7 @@ export function Find() {
                 </Heading>
 
                 <Input mb={2} placeholder='What is the bubble code?' />
-                <Button title="Search pool" />
+                <Button title="Search poll" />
 
             </VStack>
         </VStack>
