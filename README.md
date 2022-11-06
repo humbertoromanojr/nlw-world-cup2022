@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="https://drive.google.com/uc?export=view&id=1sr3s7WHEX8V-6uB7UNN8vVWyyWSEYDQy" alt="nlw-world-cup-2022-img-top" width="100%" border="0" />
 <br>
-Fullstack Project Pool World Cup 2022
+Fullstack Project Poll World Cup 2022
 </h1>
 
 
@@ -70,6 +70,7 @@ For the development of the application, the stack was used: Node.JS, ReactJS and
 -   [AuthSession](https://docs.expo.dev/versions/latest/sdk/auth-session/)
 -   [WebBrowser](https://docs.expo.dev/versions/latest/sdk/webbrowser/)
 -   [Phosphoricons](https://phosphoricons.com/)
+-   [Reactnavigation](https://reactnavigation.org/docs/getting-started/)
 
 
 ## Demonstration
