@@ -74,6 +74,7 @@ For the development of the application, the stack was used: Node.JS, ReactJS and
 -   [Axios](https://axios-http.com/docs/intro)
 -   [Country list](https://github.com/fannarsh/country-list)
 -   [React Native Country flag](https://github.com/YannisHofmann/react-native-country-flag)
+-   [Dayjs](https://day.js.org/)
 
 
 ## Demonstration
