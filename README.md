@@ -72,6 +72,8 @@ For the development of the application, the stack was used: Node.JS, ReactJS and
 -   [Phosphoricons](https://phosphoricons.com/)
 -   [Reactnavigation](https://reactnavigation.org/docs/getting-started/)
 -   [Axios](https://axios-http.com/docs/intro)
+-   [Country list](https://github.com/fannarsh/country-list)
+-   [React Native Country flag](https://github.com/YannisHofmann/react-native-country-flag)
 
 
 ## Demonstration
