@@ -5,7 +5,7 @@ Fullstack Project Poll World Cup 2022
 </h1>
 
 
-> Status from Project: :construction: Under Construction :construction: 👨‍💻
+> Status from Project: 👨‍💻 Finished 👩‍💻
 
 
 ## Shields
