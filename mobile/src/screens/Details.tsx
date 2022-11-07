@@ -11,6 +11,7 @@ import { Loading } from "../components/Loading";
 import { PoolCardProps } from '../components/PoolCard'
 import { PoolHeader } from "../components/PoolHeader";
 import { EmptyMyPoolList } from "../components/EmptyMyPoolList";
+import { Guesses } from "../components/Guesses";
 
 interface RouteParams {
   id: string;
@@ -93,6 +94,8 @@ export function Details() {
               onPress={() => setOptionSelected('ranking')}
             />
           </VStack>
+
+          <Guesses poolId={poolDetails.id} />
         </VStack>
         : <EmptyMyPoolList code={poolDetails.code} />
       }
